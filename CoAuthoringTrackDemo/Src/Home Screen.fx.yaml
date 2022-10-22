@@ -84,3 +84,12 @@
         Y: =471
         ZIndex: =6
 
+    Icon7 As icon.Bell:
+        Height: =124
+        Icon: =Icon.Bell
+        OnSelect: =Navigate('Create Edit Employee Details Screen')
+        Width: =121
+        X: =590
+        Y: =550
+        ZIndex: =7
+
