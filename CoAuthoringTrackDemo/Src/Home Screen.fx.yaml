@@ -93,3 +93,11 @@
         Y: =550
         ZIndex: =7
 
+    Icon8 As icon.Alarm:
+        Height: =107
+        Icon: =Icon.Alarm
+        Width: =102
+        X: =899
+        Y: =567
+        ZIndex: =8
+
